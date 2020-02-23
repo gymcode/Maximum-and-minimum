@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582176559 source:c:\users\kenneth\desktop\school\c++\assigment2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
